@@ -1,5 +1,5 @@
 
-# Final SDSE Project
+# SDSE Project
 
 This repository contains the **Final SDSE Project**, which automates the end-to-end MLOps pipeline using **Dagger** and **GitHub Actions**. The pipeline covers data preprocessing, model training, model selection, and deployment.
 
